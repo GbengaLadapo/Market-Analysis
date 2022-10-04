@@ -1,4 +1,4 @@
-Section A
+--Section A--
 
 --Number 1--
 SELECT SUM(profit) AS total_profit
@@ -75,7 +75,7 @@ LIMIT 1;
 --Answer: Castle lite –
 
 
-SECTION B
+--SECTION B--
 
 --Number 1: top 3 brands in francophone countries in 2019 & 2018--
 SELECT brands, SUM(quantity) AS total_quantity
@@ -151,7 +151,7 @@ ORDER BY 2;
 
 
 
-SECTION C
+--SECTION C--
 
 --Number 1: Country with the highest consumption of beer--
 SELECT SUM(quantity) AS total_quantity, countries
