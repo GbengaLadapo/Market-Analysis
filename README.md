@@ -37,5 +37,5 @@ country in West Africa.
 3. Country with the highest profit of the fourth quarter in 2019
 
 
-#Result
-Based on the SQL queries, we were able to find out the Eagle Lager was the staple of the Southern part of Nigeria,
+## Result
+Based on the SQL queries, we were able to find out that Eagle Lager was the staple of the Southern part of Nigeria, favorite malt brand in Anglophone region between 2018 and 2019 is Grand malt, Jones was the best performing Sales personnel of Budweiser in Senegal and many more. The discovered information enabled strategic business planning. 
